@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sannasah\\OneDrive\\OneDrive - Capgemini\\Documents\\Training\\30_OctTest\\Questions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85832706-029C-4B25-B11E-5BA0D1FF9F91}|Questions\\Questions.csproj|c:\\users\\sannasah\\onedrive\\onedrive - capgemini\\documents\\training\\30_octtest\\questions\\questions\\question01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85832706-029C-4B25-B11E-5BA0D1FF9F91}|Questions\\Questions.csproj|solutionrelative:questions\\question01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85832706-029C-4B25-B11E-5BA0D1FF9F91}|Questions\\Questions.csproj|c:\\users\\sannasah\\onedrive\\onedrive - capgemini\\documents\\training\\30_octtest\\questions\\questions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85832706-029C-4B25-B11E-5BA0D1FF9F91}|Questions\\Questions.csproj|solutionrelative:questions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Question01.cs",
+              "DocumentMoniker": "C:\\Users\\sannasah\\OneDrive\\OneDrive - Capgemini\\Documents\\Training\\30_OctTest\\Questions\\Questions\\Question01.cs",
+              "RelativeDocumentMoniker": "Questions\\Question01.cs",
+              "ToolTip": "C:\\Users\\sannasah\\OneDrive\\OneDrive - Capgemini\\Documents\\Training\\30_OctTest\\Questions\\Questions\\Question01.cs",
+              "RelativeToolTip": "Questions\\Question01.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T03:48:09.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sannasah\\OneDrive\\OneDrive - Capgemini\\Documents\\Training\\30_OctTest\\Questions\\Questions\\Program.cs",
+              "RelativeDocumentMoniker": "Questions\\Program.cs",
+              "ToolTip": "C:\\Users\\sannasah\\OneDrive\\OneDrive - Capgemini\\Documents\\Training\\30_OctTest\\Questions\\Questions\\Program.cs",
+              "RelativeToolTip": "Questions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T03:39:56.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
