@@ -1,0 +1,15 @@
+C:\Users\sannasah\OneDrive\OneDrive - Capgemini\Documents\Training\30_OctTest\Questions\Question21FirstApp\bin\Debug\net8.0\Question21FirstApp.exe
+C:\Users\sannasah\OneDrive\OneDrive - Capgemini\Documents\Training\30_OctTest\Questions\Question21FirstApp\bin\Debug\net8.0\Question21FirstApp.deps.json
+C:\Users\sannasah\OneDrive\OneDrive - Capgemini\Documents\Training\30_OctTest\Questions\Question21FirstApp\bin\Debug\net8.0\Question21FirstApp.runtimeconfig.json
+C:\Users\sannasah\OneDrive\OneDrive - Capgemini\Documents\Training\30_OctTest\Questions\Question21FirstApp\bin\Debug\net8.0\Question21FirstApp.dll
+C:\Users\sannasah\OneDrive\OneDrive - Capgemini\Documents\Training\30_OctTest\Questions\Question21FirstApp\bin\Debug\net8.0\Question21FirstApp.pdb
+C:\Users\sannasah\OneDrive\OneDrive - Capgemini\Documents\Training\30_OctTest\Questions\Question21FirstApp\obj\Debug\net8.0\Question21FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sannasah\OneDrive\OneDrive - Capgemini\Documents\Training\30_OctTest\Questions\Question21FirstApp\obj\Debug\net8.0\Question21FirstApp.AssemblyInfoInputs.cache
+C:\Users\sannasah\OneDrive\OneDrive - Capgemini\Documents\Training\30_OctTest\Questions\Question21FirstApp\obj\Debug\net8.0\Question21FirstApp.AssemblyInfo.cs
+C:\Users\sannasah\OneDrive\OneDrive - Capgemini\Documents\Training\30_OctTest\Questions\Question21FirstApp\obj\Debug\net8.0\Question21FirstApp.csproj.CoreCompileInputs.cache
+C:\Users\sannasah\OneDrive\OneDrive - Capgemini\Documents\Training\30_OctTest\Questions\Question21FirstApp\obj\Debug\net8.0\Question21FirstApp.sourcelink.json
+C:\Users\sannasah\OneDrive\OneDrive - Capgemini\Documents\Training\30_OctTest\Questions\Question21FirstApp\obj\Debug\net8.0\Question21FirstApp.dll
+C:\Users\sannasah\OneDrive\OneDrive - Capgemini\Documents\Training\30_OctTest\Questions\Question21FirstApp\obj\Debug\net8.0\refint\Question21FirstApp.dll
+C:\Users\sannasah\OneDrive\OneDrive - Capgemini\Documents\Training\30_OctTest\Questions\Question21FirstApp\obj\Debug\net8.0\Question21FirstApp.pdb
+C:\Users\sannasah\OneDrive\OneDrive - Capgemini\Documents\Training\30_OctTest\Questions\Question21FirstApp\obj\Debug\net8.0\Question21FirstApp.genruntimeconfig.cache
+C:\Users\sannasah\OneDrive\OneDrive - Capgemini\Documents\Training\30_OctTest\Questions\Question21FirstApp\obj\Debug\net8.0\ref\Question21FirstApp.dll

@@ -1,0 +1,15 @@
+C:\Users\sannasah\OneDrive\OneDrive - Capgemini\Documents\Training\30_OctTest\Questions\Questions\bin\Debug\net8.0\Questions.exe
+C:\Users\sannasah\OneDrive\OneDrive - Capgemini\Documents\Training\30_OctTest\Questions\Questions\bin\Debug\net8.0\Questions.deps.json
+C:\Users\sannasah\OneDrive\OneDrive - Capgemini\Documents\Training\30_OctTest\Questions\Questions\bin\Debug\net8.0\Questions.runtimeconfig.json
+C:\Users\sannasah\OneDrive\OneDrive - Capgemini\Documents\Training\30_OctTest\Questions\Questions\bin\Debug\net8.0\Questions.dll
+C:\Users\sannasah\OneDrive\OneDrive - Capgemini\Documents\Training\30_OctTest\Questions\Questions\bin\Debug\net8.0\Questions.pdb
+C:\Users\sannasah\OneDrive\OneDrive - Capgemini\Documents\Training\30_OctTest\Questions\Questions\obj\Debug\net8.0\Questions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sannasah\OneDrive\OneDrive - Capgemini\Documents\Training\30_OctTest\Questions\Questions\obj\Debug\net8.0\Questions.AssemblyInfoInputs.cache
+C:\Users\sannasah\OneDrive\OneDrive - Capgemini\Documents\Training\30_OctTest\Questions\Questions\obj\Debug\net8.0\Questions.AssemblyInfo.cs
+C:\Users\sannasah\OneDrive\OneDrive - Capgemini\Documents\Training\30_OctTest\Questions\Questions\obj\Debug\net8.0\Questions.csproj.CoreCompileInputs.cache
+C:\Users\sannasah\OneDrive\OneDrive - Capgemini\Documents\Training\30_OctTest\Questions\Questions\obj\Debug\net8.0\Questions.sourcelink.json
+C:\Users\sannasah\OneDrive\OneDrive - Capgemini\Documents\Training\30_OctTest\Questions\Questions\obj\Debug\net8.0\Questions.dll
+C:\Users\sannasah\OneDrive\OneDrive - Capgemini\Documents\Training\30_OctTest\Questions\Questions\obj\Debug\net8.0\refint\Questions.dll
+C:\Users\sannasah\OneDrive\OneDrive - Capgemini\Documents\Training\30_OctTest\Questions\Questions\obj\Debug\net8.0\Questions.pdb
+C:\Users\sannasah\OneDrive\OneDrive - Capgemini\Documents\Training\30_OctTest\Questions\Questions\obj\Debug\net8.0\Questions.genruntimeconfig.cache
+C:\Users\sannasah\OneDrive\OneDrive - Capgemini\Documents\Training\30_OctTest\Questions\Questions\obj\Debug\net8.0\ref\Questions.dll
